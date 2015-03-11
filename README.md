@@ -5,6 +5,11 @@
 ##Version##
 0.2.0
 
+##Install##
+Just download the **jquery.linkIt.js** file or you can do it through npm too:
+
+    npm install jquerylinkit
+
 ##Usage##
     $(function() {
         $('span').linkIt({
